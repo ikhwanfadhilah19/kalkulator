@@ -1,7 +1,7 @@
 ## How To Use🔧
 
 Use netbeans application if you want to try this code\
-Download Netbeans [Here](https://netbeans-ide.informer.com/download/#downloading)
+Download this app? [click Here](https://netbeans-ide.informer.com/download/#downloading)
 
 ## For Feedback💢
 
