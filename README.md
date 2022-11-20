@@ -7,7 +7,7 @@ Codingan Kalkulator Java with GUI
 
 ## For Feedback💢
 
-DM Me on Instagram [Ikhwan Fadhilah](https://www.instagram.com/dooo_dott/)
+DM Me on Instagram [Here](https://www.instagram.com/dooo_dott/)
 
 ## License💎
 
