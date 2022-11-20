@@ -5,7 +5,7 @@ Ikhwan Fadhilah
 
 Codingan Kalkulator Java with GUI
 
-## For Feedback❗
+## For Feedback💢
 
 DM Me on Instagram [Ikhwan Fadhilah](https://www.instagram.com/dooo_dott/)
 
