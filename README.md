@@ -1,6 +1,6 @@
 ## How To Use🔧
 
-Use application netbeans for this code\
+Use netbeans application if you want to try this code\
 Download [Here](https://netbeans-ide.informer.com/download/#downloading)
 
 ## For Feedback💢
