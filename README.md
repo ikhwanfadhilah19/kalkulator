@@ -1,11 +1,11 @@
 ## How To Use🔧
 
 Use Netbeans IDE application if you want to try this code\
-Where is the website to download Netbeans IDE? [click Here](https://netbeans-ide.informer.com/download/#downloading)
+Where is the website to download Netbeans IDE? [click here](https://netbeans-ide.informer.com/download/#downloading)
 
 ## For Feedback💢
 
-DM me on Instagram [Here](https://www.instagram.com/dooo_dott/)
+DM me on Instagram [here](https://www.instagram.com/dooo_dott/)
 
 ## License💎
 
