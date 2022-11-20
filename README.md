@@ -3,7 +3,7 @@ Ikhwan Fadhilah
 
 ## About💨
 
-Codingan Kalkulator Java with GUI
+Program Kalkulator Java with GUI
 
 ## For Feedback💢
 
